@@ -1,0 +1,36 @@
+div {
+	height: 230px;
+	width: 120px;
+	border: 2px solid black;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	padding-right: 50px;
+	padding-left: 50px;
+
+}
+
+div p {
+	font-size: 10px;
+	position: relative;
+	right: 10px;
+}
+
+.hide {
+	display: none;
+}
+
+form .Score {
+	position: relative;
+	right: 20px;
+	font-size: 10px;
+}
+
+.Results *{
+	margin: 0 auto; 
+	margin-top: 10px;
+
+}
+
+.score {
+	font-size: 25px;
+}
